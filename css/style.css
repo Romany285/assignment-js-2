@@ -1,0 +1,26 @@
+#home {
+    background: linear-gradient(to right, #00000077, #00000085),
+    url(../img/خلفيات-k4-للكمبيوتر-جميلة-scaled.webp);
+background-size:  cover;
+min-height: 100vh;
+}
+#home h1 {
+    font-size: 70px;
+    font-weight: 700;
+    padding-bottom: 40px;
+}
+#home p {
+    font-size: 25px;
+    padding-block: 20px;
+}
+#home button {
+    padding: 15px 30px;
+    background-color: #39A7FF;
+    border-radius: 15px;
+    border: solid #39A7FF 1px;
+    transition: all 0.5;
+    font-weight: 600;
+}
+#home button:hover {
+    background-color:#87C4FF;
+}
